@@ -20,3 +20,12 @@ Size: S, Color - Black, Material - Cotton
 
 1>Managing variant combinations for products with multiple attributes (such as size, color, and material).   
 2>Testing the API ( postman )
+## Completed Tasks :
+
+1> Design Database Schemas: Design schemas for storing product data, attributes, and variants in the chosen database.                                
+
+2> Implement APIs: Implement APIs for adding new products, defining attributes and variants, and updating product details.          
+
+3> Enable Retrieval: Enable retrieval of product information along with variants through appropriate API endpoints.
+
+4> Testing: Test the APIs using Postman or similar tools to ensure functionality and reliability.
